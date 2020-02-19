@@ -1,0 +1,23 @@
+{ 
+"products":[
+{"id":1,"name":"Albatross, galapagos","category":"Orange"},
+{"id":2,"name":"Barbet, levaillant's","category":"Violet"},
+{"id":3,"name":"Boa, columbian rainbow","category":"Turquoise"},
+{"id":4,"name":"Jackal, indian","category":"Teal"},
+{"id":5,"name":"Nelson ground squirrel","category":"Khaki"},
+{"id":6,"name":"Capuchin, brown","category":"Violet"},
+{"id":7,"name":"Common palm civet","category":"Indigo"},
+{"id":8,"name":"Shelduck, common","category":"Green"},
+{"id":9,"name":"Dabchick","category":"Indigo"},
+{"id":10,"name":"Southern white-crowned shrike","category":"Orange"},
+{"id":11,"name":"Wagtail, african pied","category":"Mauv"},
+{"id":12,"name":"Lilac-breasted roller","category":"Indigo"},
+{"id":13,"name":"White-fronted capuchin","category":"Violet"},
+{"id":14,"name":"Heron, black-crowned night","category":"Puce"},
+{"id":15,"name":"Grenadier, common","category":"Purple"},
+{"id":16,"name":"Common dolphin","category":"Crimson"},
+{"id":17,"name":"Violet-crested turaco","category":"Green"},
+{"id":18,"name":"Snake, western patch-nosed","category":"Turquoise"},
+{"id":19,"name":"Asian foreset tortoise","category":"Crimson"},
+{"id":20,"name":"Dolphin, striped","category":"Blue"}]
+}
